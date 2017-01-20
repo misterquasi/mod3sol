@@ -1,1 +1,11 @@
+.menu-entry {
+    //background-color: #ff0000;
+    border-bottom: 1px solid black;
+    margin-bottom: 5px;
+}
 
+#main-menu {
+    position: relative;
+    float: none;
+    background-color: #ffff00;
+}
