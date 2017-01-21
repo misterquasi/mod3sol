@@ -1,11 +1,25 @@
 .menu-entry {
-    //background-color: #ff0000;
     border-bottom: 1px solid black;
-    margin-bottom: 5px;
+}
+
+.menu-entry-text {
+    font-weight: bold;
 }
 
 #main-menu {
     position: relative;
     float: none;
-    background-color: #ffff00;
+    background-color: #a0a0a0;
+}
+
+.secpage {
+    background-color: #a0a0a0;
+    padding: 1em;
+    margin: auto;
+    float: center;
+}
+
+.menu-title {
+    text-align: center;
+    font-weight: bold;
 }
